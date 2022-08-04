@@ -225,7 +225,7 @@ var configFile = '';
 if (configArg) {
   configFile = 'configs/' + configArg;
 } else {
-  configFile = 'configs/mushra_customquestionaire2.yaml';
+  configFile = 'configs/listeningtest_SVS.yaml';
 }
 
 

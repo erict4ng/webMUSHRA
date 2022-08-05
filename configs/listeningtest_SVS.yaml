@@ -76,7 +76,7 @@ pages:
     - type: bs1116
       id: page6
       name: Overall Preference Test
-      content: Please rate the audio files based on how close they are to the reference in terms of naturalness, 5 being very natural and 1 being completely natural
+      content: Please rate the audio files based on how close they are to the reference in terms of naturalness, 5 being very natural and 1 being completely unnatural
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/Dissertation Experiment/Shortened/Anchor 1.wav
